@@ -1,0 +1,13 @@
+
+#svss{
+
+    height: 700px;
+    width: 500px;
+}
+#bs{
+    background: linear-gradient(to left, #3333ff 0%, #ff9900 100%);
+    background-color: black;
+ }
+ #bss{
+    font-size: 100px;
+ }
